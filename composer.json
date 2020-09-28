@@ -1,0 +1,18 @@
+{
+    "name": "aidens/kalulator",
+    "description": "description",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aidensV",
+            "email": "nameblacllis@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "aiden\\kalkulator\\": "src/" 
+        } 
+    }
+}
